@@ -1,0 +1,6 @@
+c:\users\sbj\documents\visual studio 2012\Projects\Compound\Compound\bin\Debug\Compound.exe.config
+c:\users\sbj\documents\visual studio 2012\Projects\Compound\Compound\bin\Debug\Compound.exe
+c:\users\sbj\documents\visual studio 2012\Projects\Compound\Compound\bin\Debug\Compound.pdb
+c:\users\sbj\documents\visual studio 2012\Projects\Compound\Compound\obj\Debug\Compound.csprojResolveAssemblyReference.cache
+c:\users\sbj\documents\visual studio 2012\Projects\Compound\Compound\obj\Debug\Compound.exe
+c:\users\sbj\documents\visual studio 2012\Projects\Compound\Compound\obj\Debug\Compound.pdb
